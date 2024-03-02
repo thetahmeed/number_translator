@@ -1,7 +1,7 @@
 name: number_translator
 description: "Number Translator is a Dart package for converting numbers between different languages with ease."
 version: 1.0.0
-homepage:
+homepage: https://github.com/thetahmeed/number_translator
 
 environment:
   sdk: ">=3.2.4 <4.0.0"

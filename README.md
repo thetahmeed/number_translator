@@ -56,4 +56,6 @@ Contributions are welcome! If you find any issues or want to improve the package
 
 ### License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/thetahmeed/number_translator/blob/main/LICENSE) file for details.
+
+Copyright (c) 2024 [Tahmeedul Islam](https://tahmeedul.com/)

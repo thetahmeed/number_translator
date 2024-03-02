@@ -1,3 +1,3 @@
-## 0.0.1
+## 1.0.0
 
-* TODO: Describe initial release.
+- Number Translator is a Dart package for converting numbers between different languages with ease.
