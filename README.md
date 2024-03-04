@@ -30,7 +30,7 @@ import 'package:number_translator/number_translator.dart';
 From English:
 
 ```
-String translatedNumber = NumberTranslator().fromEn('123', toLanguage: 'bn');
+String translatedNumber = NumberTranslator.translate('123', toLanguage: Language.bangla);
 print(translatedNumber); // Output: '১২৩'
 
 ```
@@ -38,7 +38,7 @@ print(translatedNumber); // Output: '১২৩'
 To English:
 
 ```
-String translatedNumber = NumberTranslator().toEn('১২৩');
+String translatedNumber = NumberTranslator.translateToEnglish('১২৩');
 print(translatedNumber); // Output: '123'
 ```
 
